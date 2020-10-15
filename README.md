@@ -8,5 +8,5 @@
 - 🌱 I’m currently learning Python for data analysis
 - 👯 I’m looking to collaborate on any Organization
 - 🤔 I’m looking for help with Financial Systems integration onto a mobile app
-- ⚡ Fun fact: When you light your lighter it gets lighter until that lighter cant light again
+- ⚡ Fun fact: programming is simply gramming by pro's 😉
 
