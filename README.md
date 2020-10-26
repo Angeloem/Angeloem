@@ -13,7 +13,7 @@
 
 # My github stats:
 
-![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=angeloem&show_icons=true&theme=dracula&bg_color=147,#000000,#434343&count_private=true&hide_rank=false)
+![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=angeloem&show_icons=true&theme=dracula&bg_color=147deg,#000000,#434343&count_private=true&hide_rank=false)
 
 <br>
 
