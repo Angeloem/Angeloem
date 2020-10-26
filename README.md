@@ -10,3 +10,18 @@
 - 🤔 I’m looking for help with Financial Systems integration onto a mobile app
 - ⚡ Fun fact: programming is simply gramming by pro's 😉
 
+
+# My github stats:
+
+![Just for showoff(GitHub stats)](https://github-readme-stats.vercel.app/api?username=angeloem&show_icons=true&theme=blueberry&count_private=true&hide_rank=false)
+
+<br>
+
+![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloem&langs_count=6&theme=blueberry)
+
+
+# Stay in touch 💬
+
+- 🐦 [twitter](https://twitter.com/emansalighty)
+- 👔 [LinkedIn](https://www.linkedin.com/in/emanuel-sanga-b9b3b7b8/)
+- 📫 [Email](mailto:esanga530@gmail.com)
