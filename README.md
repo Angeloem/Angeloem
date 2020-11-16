@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Mambopoint and Budgeter
 - 🌱 I’m currently learning Python for data analysis
 - 👯 I’m looking to collaborate on any Organization
-- 🤔 I’m looking for help with Financial Systems integration onto a mobile app
+- 🤔 I’m looking for help with Kubernetes and Docker Containers 🚢
 - ⚡ Fun fact: programming is simply gramming by pro's 😉
 
 
