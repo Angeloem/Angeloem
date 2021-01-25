@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m currently working on Mambopoint and Budgeter
-- 🌱 I’m currently learning Python for data analysis
+- 🌱 I’m currently refurbishing my knowledge on finance management
 - 👯 I’m looking to collaborate on any Organization
 - 🤔 I’m looking for help with Kubernetes and Docker Containers 🚢
-- ⚡ Fun fact: programming is simply gramming by pro's 😉
+- ⚡ Fun fact: Fun is not fact. Fact is fun..
 
 
 # My github stats:
