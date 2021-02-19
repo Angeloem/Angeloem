@@ -10,6 +10,8 @@
 - 🤔 I’m looking for help with Kubernetes and Docker Containers 🚢
 - ⚡ Fun fact: Fun is not fact. Fact is fun..
 
+# Trophies achieved
+[![trophy](https://github-profile-trophy.vercel.app/?username=angeloem)](https://github.com/ryo-ma/github-profile-trophy)
 
 # My github stats:
 
