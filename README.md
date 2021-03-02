@@ -5,8 +5,8 @@
 
 
 - 🔭 I’m currently working on Mambopoint and Budgeter
-- 🌱 I’m currently refurbishing my knowledge on finance management
-- 👯 I’m looking to collaborate on any Organization
+- 🌱 I’m currently refurbishing my knowledge on using debuggers for debugging, not console printers
+- 👯 I’m looking to collaborate on a Finance based Organization
 - 🤔 I’m looking for help with Kubernetes and Docker Containers 🚢
 - ⚡ Fun fact: Fun is not fact. Fact is fun..
 
