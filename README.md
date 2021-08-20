@@ -22,8 +22,5 @@
 ![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloem&langs_count=6&theme=blueberry)
 
 
-# Stay in touch 💬
-
-- 🐦 [twitter](https://twitter.com/emansalighty)
-- 👔 [LinkedIn](https://www.linkedin.com/in/emanuel-sanga-b9b3b7b8/)
+# Let's stay in touch 💬
 - 📫 [Email](mailto:esanga530@gmail.com)
