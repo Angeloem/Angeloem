@@ -19,7 +19,7 @@
 
 <br>
 
-![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloem&langs_count=6&theme=blueberry)
+![Top_langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angeloem&langs_count=6&theme=blueberry&count_private=true)
 
 
 # Let's stay in touch 💬
