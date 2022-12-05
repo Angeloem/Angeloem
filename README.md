@@ -4,11 +4,10 @@
 **Angeloem/Angeloem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
-- 🔭 I’m currently working on Mambopoint and Budgeter
-- 🌱 I’m currently refurbishing my knowledge on using debuggers for debugging, not console printers
-- 👯 I’m looking to collaborate on a Finance based Organization
-- 🤔 I’m looking for help with Kubernetes and Docker Containers 🚢
-- ⚡ Fun fact: Fun is not fact. Fact is fun..
+- 🔭 I’m currently working on Mambopoint and Pamoja Store
+- 🌱 I’m currently focusing on tdd and clean arch
+- 🤔 I’m looking for help with terraform and automation
+- ⚡ Fun fact: hahaha, hahaha, hahaha. I wish we laughed like that
 
 # Trophies achieved
 [![trophy](https://github-profile-trophy.vercel.app/?username=angeloem)](https://github.com/ryo-ma/github-profile-trophy)
