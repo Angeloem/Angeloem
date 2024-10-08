@@ -2,12 +2,13 @@
 
 <!--
 **Angeloem/Angeloem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+# About me 🤓
 
-
-- 🔭 I’m currently working on Mambopoint and Pamoja Store
-- 🌱 I’m currently focusing on tdd and clean arch
-- 🤔 I’m looking for help with terraform and automation
-- ⚡ Fun fact: hahaha, hahaha, hahaha. I wish we laughed like that
+```
+function aboutMe() {
+    aboutMe();
+}
+```
 
 # Trophies achieved
 [![trophy](https://github-profile-trophy.vercel.app/?username=angeloem)](https://github.com/ryo-ma/github-profile-trophy)
